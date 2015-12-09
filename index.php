@@ -1,7 +1,7 @@
 <html>
 <head>
         
- <title>Project Alexander</title>
+ <title>Wrtr.net</title>
 
 
 </head>
@@ -11,7 +11,7 @@
 <div style="filter:alpha(opacity=60);">
 
 <p style="text-align:left;font-family:arial;font-weight:bold;background-color:#8DB6CD;color:white;">
-Project Alexander <br/>
+Wrtr.net <br/>
 <div style="margin-right:0;margin-left:auto;background-color:blue;font-family:cursive;color:white;">
 
 <img src="curl.png" height="30" width="30">

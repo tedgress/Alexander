@@ -11,7 +11,7 @@ a:hover {color:#8DB6CD}
 <script type="text/javascript" src="changeprofile.js"></script>
 <script type="text/javascript" src="editprofile.js"></script>        
 <script type="text/javascript" src="birthdayfunc.js"></script>
- <title>Project Alexander: Welcome</title>
+ <title>Wrtr.net: Welcome</title>
 
 
 <script language="javascript" type="text/javascript">
@@ -164,7 +164,7 @@ window.location("http://www.twilightraven.com/alexander/main.php?displayWork=" +
 
 
 <p style="text-align:left;font-family:arial;font-weight:bold;background-color:#8DB6CD;color:white;">
-Project Alexander &nbsp; 
+Wrtr.net &nbsp; 
 
 <br/> 
 <div style="margin-right:0;margin-left:auto;background-color:blue;font-family:cursive;font-weight:bold;color:white;">
